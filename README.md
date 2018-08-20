@@ -1,6 +1,7 @@
 Дипломный проект курса «JavaScript в браузере»
 ===
 
+
 Ссылка на выполненую работу размещенную на хостинге:
 http://university.netology.ru/u/balabanov/hj-21-810411/index.html
 
